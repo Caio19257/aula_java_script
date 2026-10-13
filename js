@@ -1,8 +1,9 @@
-<body>
-    <h1>Olá, JavaScript!</h1>
-    <script>
-        console.log("primeiro comando JS");
-        alert("Bem-vindo ao curso!");
-    </script>   
-    <script src = app.js></script>
-</body>
+
+<script>
+    console.log("primeiro comando DEBUG");
+    alert("Bem vindo ao curso do senai");
+    document.write('testando o write');
+</script>
+
+<a href="js" class="aluno-link"> segunda página
+    </a>
