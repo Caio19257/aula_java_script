@@ -5,5 +5,3 @@
     document.write('testando o write');
 </script>
 
-<a href="js" class="aluno-link"> segunda página
-    </a>
